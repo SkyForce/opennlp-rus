@@ -1,0 +1,2 @@
+
+Судьба_NOUN Восточной_ADJ Армении_PROPN со_ADP второй_ADJ половины_NOUN XIX_NUM века_NOUN находилась_VERB в_ADP русле_NOUN единых_ADJ судеб_NOUN народов_NOUN Российской_ADJ империи_NOUN ._PUNCT 
